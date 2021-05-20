@@ -4,8 +4,7 @@
 
 ### 👋Hey, I am Ben/Zerofour/04
 
-![zerofour_04](https://user-images.githubusercontent.com/60815764/119038408-5fa70d00-b9b3-11eb-823f-dd2e262aa648.png)
-<img src="https://user-images.githubusercontent.com/60815764/119038408-5fa70d00-b9b3-11eb-823f-dd2e262aa648.png" width="200">
+<img src="https://user-images.githubusercontent.com/60815764/119038408-5fa70d00-b9b3-11eb-823f-dd2e262aa648.png" width="225">
 
 ## 👔My job: 
 
