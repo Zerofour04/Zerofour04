@@ -50,8 +50,10 @@ https://media.giphy.com/media/h78haYpTnyayPSLSfY/source.mov
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Zerofour Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  <img align="left" alt="Zerofour Stats" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=radical" />
+  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
+  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
+  <img align="left" alt="Wakatimes" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zerofour04" />
+
 
 </details>
 
