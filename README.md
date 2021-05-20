@@ -50,7 +50,8 @@ https://media.giphy.com/media/h78haYpTnyayPSLSfY/source.mov
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zerofour04&show_icons=true&hide_border=false" />
+  <img align="left" alt="Zerofour Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="left" alt="Zerofour Stats" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=radical" />
 
 </details>
 
