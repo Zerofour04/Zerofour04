@@ -1,14 +1,18 @@
+![04](https://user-images.githubusercontent.com/60815764/119038564-8ebd7e80-b9b3-11eb-95f4-42e46a63602b.gif)
+
 # #️⃣README.md file V-1.2
 
 ### 👋Hey, I am Ben/Zerofour/04
 
 ## 👔My job: 
 
-- 👑 Server project management on FiveM
+- ❤️ Love & Learn Coding
 - 🎮 Passionate gamer
 - 🖥️ Scripter & Programmer newcomer
 - 🗺️ GTA5/FiveM Map Creator/Designer
-- 💽 Digital Creator
+- 💾 Digital Creator
+- 🤓 Student
+- 🎲 Coding & Mapping with FiveM
 
 ### 🎮Game Links:
 
@@ -42,8 +46,6 @@
 
 <br />
 <br />
-
-https://media.giphy.com/media/h78haYpTnyayPSLSfY/source.mov
 
 ---
 
