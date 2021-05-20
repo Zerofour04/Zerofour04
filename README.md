@@ -1,6 +1,6 @@
-# #️⃣README.md file V-1.1
+# #️⃣README.md file V-1.2
 
-### 👋Hey, I am Ben aka Zerofour/04
+### 👋Hey, I am Ben/Zerofour/04
 
 ## 👔My job: 
 
@@ -42,6 +42,8 @@
 
 <br />
 <br />
+
+<iframe src="https://giphy.com/embed/h78haYpTnyayPSLSfY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h78haYpTnyayPSLSfY">via GIPHY</a></p>
 
 ---
 
