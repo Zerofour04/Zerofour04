@@ -42,11 +42,11 @@
 
 ### 🌐Social Links:
 
-[<img align="left" alt="Zerofour | Discord" width="150px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img align="left" alt="Zerofour | YouTube" width="150px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="Zerofour | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Zerofour | Twitch" width="150px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-[<img align="left" alt="Zerofour | Spotify" width="150px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Zerofour | YouTube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="Zerofour | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Zerofour | Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
+[<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 <br />
 <br />
@@ -65,3 +65,4 @@
 [youtube]: https://www.youtube.com/channel/UCiG2ezBIH8PKOjrvHyipR_g
 [twitter]: https://twitter.com/Zerofour_04_
 [twitch]: https://www.twitch.tv/zerofour_04_
+[spotify]: https://www.twitch.tv/zerofour_04_
