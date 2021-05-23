@@ -4,7 +4,7 @@
 
 ### 👋Hey, I am Ben/Zerofour/04
 
-<img src="https://user-images.githubusercontent.com/60815764/119038408-5fa70d00-b9b3-11eb-823f-dd2e262aa648.png" width="225">
+<img align="right" alt="Picture" src="https://user-images.githubusercontent.com/60815764/119038408-5fa70d00-b9b3-11eb-823f-dd2e262aa648.png" width="200">
 
 ## 👔My job: 
 
@@ -37,7 +37,7 @@
 [<img align="left" alt="GIMP" width="60px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />][youtube]
 [<img align="left" alt="ADOBE" width="60px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />][youtube]
 [<img align="left" alt="Wordpress" width="60px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][youtube]
-[<img align="left" alt="RSS-Feeds" width="60px" src="	https://img.shields.io/badge/RSS-Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" />][youtube]
+[<img align="left" alt="RSS" width="60px" src="	https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />][youtube]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
@@ -61,26 +61,25 @@
 [<img align="left" alt="Zerofour | Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="left" alt="Zerofour | Steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][spotify]
-<br />
+
+https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=ubisoft&logoColor=white
+https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=origin&logoColor=white
 <br />
 
 ---
 
 ### PC Component
-[<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/NVIDIA-Graphiccard-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Grphiccard" width="100px" src="https://img.shields.io/badge/Graphiccard-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][spotify]
 [<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white" />][spotify]
 [<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][spotify]
-
-<br />
 <br />
 
 ---
 
 ### Support me
-[<img align="left" alt="Zerofour | Paypal" width="100px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Paypal" width="90px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][spotify]
 [<img align="left" alt="Zerofour | Patreon" width="100px" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />][spotify]
 [<img align="left" alt="Buy Me A Coffee" width="100px" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" />][spotify]
-<br />
 <br />
 
 ---
