@@ -21,23 +21,23 @@
 ## 💻Working with these Languages & Programms:
 #### 🈺Languages
 [<img align="left" alt="LUA" width="75px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />]
-[<img align="left" alt="HTML5" width="75px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][HTML]
-[<img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />][CSS]
-[<img align="left" alt="C#" width="75px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][CSHARP]
-[<img align="left" alt="JavaScript" width="75px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][JAVASCRIPT]
-[<img align="left" alt="MySQL" width="75px" src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" />][MYSQL]
-[<img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />][NODEJS]
+[<img align="left" alt="HTML5" width="75px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]
+[<img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]
+[<img align="left" alt="C#" width="75px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
+[<img align="left" alt="JavaScript" width="75px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]
+[<img align="left" alt="MySQL" width="75px" src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" />]
+[<img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />]
 <br />
 
 #### 🤖Programms
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][VSCODE]
-[<img align="left" alt="Visual Studio 2019" width="60px" src="https://img.shields.io/badge/VSStudio2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />][VS19]
-[<img align="left" alt="GitHub" width="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][GITHUB]
-[<img align="left" alt="Git" width="60px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][GIT]
-[<img align="left" alt="GIMP" width="60px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />][GIMP]
-[<img align="left" alt="ADOBE" width="60px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />][ADOBE]
-[<img align="left" alt="Wordpress" width="60px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][WORDPRESS]
-[<img align="left" alt="RSS" width="60px" src="	https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />][RSS]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]
+[<img align="left" alt="Visual Studio 2019" width="60px" src="https://img.shields.io/badge/VSStudio2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />]
+[<img align="left" alt="GitHub" width="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />]
+[<img align="left" alt="Git" width="60px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]
+[<img align="left" alt="GIMP" width="60px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />]
+[<img align="left" alt="ADOBE" width="60px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />]
+[<img align="left" alt="Wordpress" width="60px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />]
+[<img align="left" alt="RSS" width="60px" src="	https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />]
 <br />
 
 ---
