@@ -22,16 +22,16 @@
 
 ### 🈺Working wiht these Languages:
 
-[<img align="left" alt="VSCode" width="75px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][discord]
-[<img align="left" alt="HTML5" width="75px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][discord]
-[<img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />][discord]
-[<img align="left" alt="JavaScript" width="75px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][discord]
-[<img align="left" alt="C#" width="75px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][discord]
-[<img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />][discord]
-[<img align="left" alt="LUA" width="75px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />][discord]
-[<img align="left" alt="MySQL" width="75px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][discord]
-[<img align="left" alt="Git" width="75px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][discord]
-[<img align="left" alt="GitHub" width="75px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][discord]
+[ alt="VSCode" width="75px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][discord]
+[ alt="HTML5" width="75px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][discord]
+[ alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />][discord]
+[ alt="JavaScript" width="75px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][discord]
+[ alt="C#" width="75px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][discord]
+[ alt="Node.js" width="75px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />][discord]
+[ alt="LUA" width="75px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />][discord]
+[ alt="MySQL" width="75px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][discord]
+[ alt="Git" width="75px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][discord]
+[ alt="GitHub" width="75px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][discord]
 
 
 <br />
