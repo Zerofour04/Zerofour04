@@ -30,11 +30,25 @@
 <br />
 
 #### 🤖Programms
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][youtube]
+[<img align="left" alt="Visual Studio 2019" width="60px" src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />][youtube]
+[<img align="left" alt="GitHub" width="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][youtube]
+[<img align="left" alt="Git" width="60px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][youtube]
+[<img align="left" alt="GIMP" width="60px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />][youtube]
+[<img align="left" alt="ADOBE" width="60px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />][youtube]
+[<img align="left" alt="Wordpress" width="60px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][youtube]
+[<img align="left" alt="RSS-Feeds" width="60px" src="	https://img.shields.io/badge/RSS-Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" />][youtube]
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 
 <br />
+
+### Servers
+[<img align="left" alt="Windows" width="60px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][youtube]
+[<img align="left" alt="Linux" width="60px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][youtube]
+
 <br />
 
 ---
@@ -46,10 +60,30 @@
 [<img align="left" alt="Zerofour | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Zerofour | Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][spotify]
+<br />
+<br />
+
+---
+
+### PC Component
+[<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/NVIDIA-Graphiccard-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][spotify]
 
 <br />
 <br />
 
+---
+
+### Support me
+[<img align="left" alt="Zerofour | Paypal" width="100px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][spotify]
+[<img align="left" alt="Zerofour | Patreon" width="100px" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />][spotify]
+[<img align="left" alt="Buy Me A Coffee" width="100px" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" />][spotify]
+<br />
+<br />
+
+---
 
 <details>
   <summary>GitHub Stats</summary>
