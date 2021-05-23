@@ -17,8 +17,16 @@
 
 ---
 
-### 🐱‍💻Working with these Languages & Programms:
+## 🐱‍💻Working with these Languages & Programms:
 #### 🈺Languages
+[<img align="left" alt="LUA" width="26px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />][youtube]
+[<img align="left" alt="C#" width="26px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][youtube]
+[<img align="left" alt="MySQL" width="26px" src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />][youtube]
+
 
 [<img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
