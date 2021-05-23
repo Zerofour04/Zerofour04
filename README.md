@@ -30,21 +30,21 @@
 <br />
 
 #### 🤖Programms
-<img align="left" alt="Visual Studio Code" width="60px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="Visual Studio 2019" width="60px" src="https://img.shields.io/badge/VSStudio2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img align="left" alt="GitHub" width="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="Git" width="60px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" alt="GIMP" width="60px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-<img align="left" alt="ADOBE" width="60px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img align="left" alt="Wordpress" width="60px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img align="left" alt="RSS" width="60px" src="	https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
+<img align="left" alt="Visual Studio Code" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="left" alt="Visual Studio 2019" width="76px" src="https://img.shields.io/badge/VSStudio2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="left" alt="GitHub" width="75px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="Git" width="75px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="GIMP" width="75px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+<img align="left" alt="ADOBE" width="75px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<img align="left" alt="Wordpress" width="75px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img align="left" alt="RSS" width="75px" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
 <br />
 
 ---
 
 ### 📠Servers
-[<img align="left" alt="Windows" width="60px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][WINDOWS]
-[<img align="left" alt="Linux" width="60px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][LINUX]
+[<img align="left" alt="Windows" width="75px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][windows]
+[<img align="left" alt="Linux" width="75px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
 <br />
 
 ---
@@ -56,8 +56,6 @@
 [<img align="left" alt="Zerofour | Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img align="left" alt="Zerofour | Spotify" width="100px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="left" alt="Zerofour | Steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
-[<img align="left" alt="Zerofour | Uplay" width="100px" src="https://img.shields.io/badge/Uplay-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />][ubisoft]
-[<img align="left" alt="Zerofour | Origin" width="100px" src="https://img.shields.io/badge/Origin-000000?style=for-the-badge&logo=origin&logoColor=white" />][origin]
 <br />
 
 ---
@@ -86,9 +84,16 @@
 
 </details>
 
+[windows]:https://www.microsoft.com/en-us/windows/
+[linux]:https://www.linux.org
 [discord]: https://steamcommunity.com/id/zerofour_04/
-[steam]: https://steamcommunity.com/id/zerofour_04/
 [youtube]: https://www.youtube.com/channel/UCiG2ezBIH8PKOjrvHyipR_g
 [twitter]: https://twitter.com/Zerofour_04_
 [twitch]: https://www.twitch.tv/zerofour_04_
 [spotify]: https://www.twitch.tv/zerofour_04_
+[steam]: https://steamcommunity.com/id/zerofour_04/
+[nvidia]: https://www.nvidia.com
+[intel]: https://www.intel.com/content/www/us/en/homepage.html
+[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url
+[patreon]: https://www.patreon.com/zerofour
+[buymeacoffee]: https://www.buymeacoffee.com/zerofour
