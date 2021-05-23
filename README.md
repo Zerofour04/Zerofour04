@@ -15,11 +15,6 @@
 - 🤓 Student
 - 🎲 Coding & Mapping with FiveM
 
-### 🤙Groups
-
-[<img align="left" alt="Zerofour | Discord" width="75px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-<br />
-
 ---
 
 ### 🐱‍💻Working with these Languages & Programms:
@@ -47,9 +42,11 @@
 
 ### 🌐Social Links:
 
-[<img align="left" alt="Zerofour | YouTube" width="22px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="Zerofour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Zerofour | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Zerofour | Discord" width="150px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Zerofour | YouTube" width="150px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="Zerofour | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Zerofour | Twitch" width="150px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
+[<img align="left" alt="Zerofour | Spotify" width="150px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 <br />
 <br />
