@@ -20,6 +20,8 @@
 [<img align="left" alt="Zerofour | Discord" width="75px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 
+---
+
 ### 🐱‍💻Working with these Languages & Programms:
 #### 🈺Languages
 
@@ -40,6 +42,8 @@
 
 <br />
 <br />
+
+---
 
 ### 🌐Social Links:
 
