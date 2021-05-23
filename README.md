@@ -27,9 +27,6 @@
 [<img align="left" alt="MySQL" width="75px" src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" />][youtube]
 [<img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />][youtube]
 
-
-
-<br />
 <br />
 
 #### 🤖Programms
