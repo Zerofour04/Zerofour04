@@ -84,6 +84,8 @@
 
 </details>
 
+![zerofour](https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif)
+
 [windows]:https://www.microsoft.com/en-us/windows/
 [linux]:https://www.linux.org
 [discord]: https://steamcommunity.com/id/zerofour_04/
