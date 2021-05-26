@@ -17,7 +17,7 @@
 - 🌐 Coming from Germany
 
 [![Spotify](https://now-playing-Zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/Zerofour_04)
-[![Spotify](https://Zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/Zerofour_04)
+[![Spotify](https://novatorem-sable-one.vercel.app/api/spotify)](https://open.spotify.com/user/Zerofour_04)
 
 
 
