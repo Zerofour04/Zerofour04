@@ -61,7 +61,7 @@
 ---
 
 ### ⌨️PC Component
-[<img align="left" alt="Zerofour | Nvidia" width="100px" src="https://img.shields.io/badge/NVIDIA-Graphiccard-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][nvidia]
+[<img align="left" alt="Zerofour | Nvidia" width="100px" src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][nvidia]
 [<img align="left" alt="Zerofour | Intel" width="100px" src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white" />][intel]
 [<img align="left" alt="Zerofour | Windows" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][windows]
 <br />
