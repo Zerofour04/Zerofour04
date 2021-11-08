@@ -19,7 +19,7 @@
 ---
 
 ## 💻Working with these Languages & Programms:
-#### 🈺Languages
+### 🈺Languages
 <img align="left" alt="HTML5" width="90px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" width="78px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="LUA" width="72px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -27,17 +27,16 @@
 <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="JavaScript" width="87px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="JSON" width="80px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 
 <br />
 
-#### 🖼️Framworks
+### 🖼️Framworks
 <img align="left" alt="NPM" width="70px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" alt="Node.js" width="80px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 
 <br />
 
-#### 🤖Programms
+### 🤖Programms
 <img align="left" alt="Visual Studio Code" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="Visual Studio 2019" width="115px" src="https://img.shields.io/badge/VSStudio2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img align="left" alt="Webstorm" width="95px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=whit" />
