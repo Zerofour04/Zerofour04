@@ -14,7 +14,7 @@
 - 🎲 Coding & Mapping with FiveM
 - 🌐 Coming from Germany
 
-[![Spotify](https://Zerofour_04.vercel.app/api/spotify)](https://open.spotify.com/user/Zerofour_04)
+[![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
 
 ---
 
