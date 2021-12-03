@@ -1,20 +1,44 @@
 ![04](https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif)
 
-# #️⃣README.md file V-1.3
+# #️⃣README.md file V-1.5
 
-### 👋Hey, I am Ben/Zerofour/04
+### 👋Hey, I am Ben / Zerofour/ 04
 
-## 👔My job: 
-
-- ❤️ Love & Learn Coding
+## 💼My job: 
+- ❤️ Love & Learn Coding, API
 - 🎮 Passionate gamer
 - 🖥️ Scripter & Programmer newcomer
-- 🗺️ GTA5/FiveM Map Creator/Designer
-- 🤓 Student
 - 🎲 Coding & Mapping with FiveM
+- 🤓 Student
 - 🌐 Coming from Germany
 
+## 🎶Music 
 [![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://spotifyapi2.vercel.app/now-playing?open"><img src="https://spotifyapi2.vercel.app/now-playing" width="540" height="64"></a> |
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
