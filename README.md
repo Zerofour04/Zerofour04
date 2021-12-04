@@ -78,6 +78,7 @@
 ### 📠Servers
 [<img align="left" alt="Windows" width="75px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][windows]
 [<img align="left" alt="Linux" width="75px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
+[<img align="left" alt="Linux" width="75px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />][json]
 <br />
 
 <!-- ### 🌐Social Links:
@@ -130,3 +131,4 @@
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url
 [patreon]: https://www.patreon.com/zerofour
 [buymeacoffee]: https://www.buymeacoffee.com/zerofour
+[json]: https://www.npmjs.com/package/json-server
