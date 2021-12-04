@@ -13,6 +13,7 @@
 - 🌐 Coming from Germany
 
 ## 🎶Music 
+#### 🎵Last played
 [![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
 
 | 🎵 Now Playing                                                                                                                    |
