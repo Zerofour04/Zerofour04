@@ -85,11 +85,12 @@
 
 ---
 
-<h3 align="center">⌨️PC Component</h3>
+<h3 align="center">⌨️Components</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
   <img src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Apple-Iphone-999999?style=for-the-badge&logo=apple&logoColor=white" alt="Apple"/>
 </p>
 
 ---
