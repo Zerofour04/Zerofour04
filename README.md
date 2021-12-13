@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I am Ben / Zerofour/ 04</h2>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif"></h3>
-<h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3>
+<!-- <h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3> -->
 
 
 ## 💼My job: 
