@@ -1,4 +1,4 @@
-# #️⃣README.md file V-2.0
+# #️⃣README.md file V-2.1
 
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I am Ben / Zerofour/ 04</h2>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif"></h3>
@@ -14,7 +14,7 @@
 - 🤓 Student
 - 🌐 Coming from Germany
 
-## 🎶Music 
+## 🎶Music APIs
 #### 🎵Last played
 [![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
 
@@ -53,14 +53,17 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
   <img src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
 </p>
 
-<h3 align="center">🖼️Framworks</h3>
+<h3 align="center">🖼️Framworks / 📚Library</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootsrap"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Nodejs"/>
+
+  
 </p>
 
 <h3 align="center">🤖Programms</h3>
