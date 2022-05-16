@@ -4,16 +4,6 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif"></h3>
 <!-- <h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3> -->
 
-## 💼My job
-
-- ❤️ Love & Learn Coding
-- 🎮 Passionate gamer
-- 🛠️ Scripter & Programmer newcomer
-- 🖥️ Frontend
-- 🎲 Coding & Mapping with FiveM
-- 🤓 Student
-- 🌐 Coming from Germany
-
 ## 🎶Music APIs
 
 #### 🎵Last played
