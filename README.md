@@ -1,6 +1,6 @@
 # #️⃣README.md file V-2.1
 
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I am Ben / Zerofour/ 04</h2>
+<h2 align="center"> 👋Hey, I am Ben / Zerofour/ 04</h2>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif"></h3>
 <!-- <h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3> -->
 
@@ -109,7 +109,7 @@
 
 <h3 align="center">💌Support me</h3>
 <p align="center">
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url1" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+  <a href="paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
   <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
