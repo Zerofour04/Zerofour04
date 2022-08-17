@@ -1,11 +1,11 @@
-# #️⃣README.md file V-2.1
+# #️⃣README.md file V-2.3
+<p align="center">
+  <a href="https://github.com/Zerofour04"><img src="https://media.giphy.com/media/cDLIUXAsdhTZdSZbEC/giphy.gif"></a>
+</p>
+<h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3>
 
-<h2 align="center"> 👋Hey, I am Ben / Zerofour/ 04</h2>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/60815764/119520000-305d1b00-bd7a-11eb-9f16-b2b39bc8541e.gif"></h3>
-<!-- <h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3> -->
-
-## 💼My job
-
+## 👋Hey, I am Ben / Zerofour/ 04
+### 💼Fax:
 - ❤️ Love & Learn Coding
 - 🎮 Passionate gamer
 - 🛠️ Scripter & Programmer newcomer
@@ -13,37 +13,6 @@
 - 🎲 Coding & Mapping with FiveM
 - 🤓 Student
 - 🌐 Coming from Germany
-
-## 🎶Music APIs
-
-#### 🎵Last played
-
-[![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
-
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://spotifyapi2.vercel.app/now-playing?open"><img src="https://spotifyapi2.vercel.app/now-playing" width="540" height="64"></a> |
-
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
@@ -115,6 +84,37 @@
 </p>
 
 ---
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/60815764/185132784-ddf00ee0-a68b-4bc3-b3ea-b157b041ba5b.gif)
+---
+## 🎶Music APIs
+#### 🎵Last played
+
+[![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://spotifyapi2.vercel.app/now-playing?open"><img src="https://spotifyapi2.vercel.app/now-playing" width="540" height="64"></a> |
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
   <summary>📚GitHub Stats</summary>
