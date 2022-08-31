@@ -14,6 +14,8 @@
 - 🤓 Student
 - 🌐 Coming from Germany
 
+<a href="https://app.daily.dev/Zerofour04"><img src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="250" alt="Ben // Zerofour // 04's Dev Card"/></a>
+
 ---
 
 ## 💻Working with these Languages & Programms
