@@ -1,8 +1,15 @@
 # #️⃣README.md file V-2.3
+
+<p align="center">
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1AF727&center=true&vCenter=true&width=435&lines=%3Eprint+%3CHello+World%2F%3E+from+Ben"></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Zerofour04"><img src="https://media.giphy.com/media/cDLIUXAsdhTZdSZbEC/giphy.gif"></a>
 </p>
-<h3 align="center">🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></h3>
+<h3 align="center">
+🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg">
+</h3>
 
 ## 👋Hey, I am Ben / Zerofour/ 04
 ### 💼Fax:
@@ -11,12 +18,21 @@
 - 🛠️ Scripter & Programmer newcomer
 - 🖥️ Frontend
 - 🎲 Coding & Mapping with FiveM
+  - I regularly upload and share old server files
 - 🤓 Student
 - 🌐 Coming from Germany
 
-<a href="https://app.daily.dev/Zerofour04"><img src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="250" alt="Ben // Zerofour // 04's Dev Card"/></a>
-
 ---
+
+<a href="https://app.daily.dev/Zerofour04"><img src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="300" alt="Ben // Zerofour // 04's Dev Card"/></a>
+
+<details>
+  <summary>📚GitHub Stats</summary>
+
+  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
+  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
+
+</details>
 
 ## 💻Working with these Languages & Programms
 
@@ -86,7 +102,7 @@
 </p>
 
 ---
-![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/60815764/186947322-bfb38bb5-feb0-4a08-bdc4-fa137f35a969.gif)
+![github-contribution-grid-snake (1)]()
 ---
 ## 🎶Music APIs
 #### 🎵Last played
@@ -117,14 +133,6 @@
     </tr>
   </tbody>
 </table>
-
-<details>
-  <summary>📚GitHub Stats</summary>
-
-  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
-  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
-
-</details>
 
 ![zerofour](https://user-images.githubusercontent.com/60815764/119038564-8ebd7e80-b9b3-11eb-95f4-42e46a63602b.gif)
 
