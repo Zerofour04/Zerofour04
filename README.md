@@ -1,38 +1,38 @@
-# #️⃣README.md file V-2.3
-
+# #️⃣README.md file V-2.5
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1AF727&center=true&vCenter=true&width=435&lines=%3Eprint+%3CHello+World%2F%3E+from+Ben"></a>
+<a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1AF727&center=true&vCenter=true&width=435&lines=%3Eprint+%3CHello+World%2F%3E+from+Ben"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zerofour04"><img src="https://media.giphy.com/media/cDLIUXAsdhTZdSZbEC/giphy.gif"></a>
 </p>
-<h3 align="center">
-🚪Visitors: <img src="https://profile-counter.glitch.me/{YOUR USER}/count.svg">
-</h3>
 
 ## 👋Hey, I am Ben / Zerofour/ 04
+
+<a href="https://app.daily.dev/Zerofour04"><img align="right" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
 ### 💼Fax:
 - ❤️ Love & Learn Coding
 - 🎮 Passionate gamer
 - 🛠️ Scripter & Programmer newcomer
 - 🖥️ Frontend
 - 🎲 Coding & Mapping with FiveM
-  - I regularly upload and share old server files
+- I regularly upload and share old server files
 - 🤓 Student
 - 🌐 Coming from Germany
 
+<h3 align="center">💌 How to Support me</h3>
+<p align="center">Since I publish everything open-source, I don't expect anything, but I would be happy if:</p>
+<p align="center">- 👤you follow me</p>
+<p align="center">- ⭐you give my projects a star</p>
+<p align="center">- 🌐you share my projects</p>
+ 
+<p align="center">
+  <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+  <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+</p>
+
 ---
-
-<a href="https://app.daily.dev/Zerofour04"><img src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="300" alt="Ben // Zerofour // 04's Dev Card"/></a>
-
-<details>
-  <summary>📚GitHub Stats</summary>
-
-  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
-  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
-
-</details>
 
 ## 💻Working with these Languages & Programms
 
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -72,18 +73,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </p>
 
 <h3 align="center">📠Servers</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VERCEL"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VERCEL"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>  
 </p>
-
----
 
 <h3 align="center">⌨️Components</h3>
 <p align="center">
@@ -92,17 +93,13 @@
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
----
-
-<h3 align="center">💌Support me</h3>
 <p align="center">
-  <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-  <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <img alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
+</p>
+<p align="center">
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
 </p>
 
----
-![github-contribution-grid-snake (2)](https://user-images.githubusercontent.com/60815764/188129985-3b677778-e3a8-4595-ba86-37bad5aa4185.gif)
 ---
 ## 🎶Music APIs
 #### 🎵Last played
