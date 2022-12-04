@@ -8,7 +8,8 @@
 </p>
 
 ## 👋Hey, I am Ben / Zerofour/ 04
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/470526298012516352)](https://discord.com/users/470526298012516352)
+---
 <a href="https://app.daily.dev/Zerofour04"><img align="right" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
 ### 💼Fax:
 - ❤️ Love & Learn Coding
