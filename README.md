@@ -1,43 +1,69 @@
-# #️⃣README.md file V-2.5
 <p align="center">
-<a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1AF727&center=true&vCenter=true&width=435&lines=%3Eprint+%3CHello+World%2F%3E+from+Ben"></a>
+  <a href="https://github.com/Zerofour04"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60815764/292596436-61e05eaa-b53e-44fc-a03b-3279bc1e7b3a.gif"></a>
+</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h2 align="center">
+        <samp>&gt; HelloWorld(), I am
+                <b><a target="_blank" href="https://zerofour04.me">Ben // Zerofour // 04</a></b>
+</h2>
+<h3 align="center">
+    <samp>👋Welcome on my GitHub</samp>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/fec2e9df-a845-444d-91b8-7d9b8b44dd41"></a>
+</h3>
+<p align="center"> 
+  <samp>
+    <br>
+    「 Creating digital masterpieces, based in <b>Munich, Germany</b> 」
+    <br>
+    「 <b>README.md v3.0 </b>| Web- / Front- /Game- Developer 」
+    <br>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
+    <br>
+  </samp>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zerofour04"><img src="https://media.giphy.com/media/cDLIUXAsdhTZdSZbEC/giphy.gif"></a>
+  <samp>
+    <a href="https://github.com/Zerofour04"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <br>
+    <a href="https://discord.com/users/470526298012516352"><img src="https://lanyard.cnrad.dev/api/470526298012516352"></a>
+    <br>
+    <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
+    <br>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
+  </samp>
 </p>
 
-## 👋Hey, I am Ben / Zerofour/ 04
-[![Discord Presence](https://lanyard.cnrad.dev/api/470526298012516352)](https://discord.com/users/470526298012516352)
----
-<a href="https://app.daily.dev/Zerofour04"><img align="right" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
-### 💼Fax:
-- ❤️ Love & Learn Coding
-- 🎮 Passionate gamer
-- 🛠️ Scripter & Programmer newcomer
-- 🖥️ Frontend
-- 🎲 Coding & Mapping with FiveM
-- I regularly upload and share old server files
-- 🤓 Student
-- 🌐 Coming from Germany
+<h2 align="center">
+  <samp>
+    「 <b>💌 How to Support me</b> 」
+  </samp>
+</h2>
 
-<h3 align="center">💌 How to Support me</h3>
-<p align="center">Since I publish everything open-source, I don't expect anything, but I would be happy if:</p>
-<p align="center">- 👤you follow me</p>
-<p align="center">- ⭐you give my projects a star</p>
-<p align="center">- 🌐you share my projects</p>
- 
+<p align="center">
+  <samp>
+    「 <b> Since I publish everything open-source, I don't expect anything, but I would be happy if:</b> 」
+    <br>
+     - ⭐you give my projects a star 
+    <br>
+     - 👤you follow me
+    <br>
+     - 🌐you share my project
+  </samp>
+</p>
 <p align="center">
   <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
   <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <br>
+  <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/ad565c1b-af95-4116-909a-e79b026a6697"></a>
 </p>
 
----
-
-## 💻Working with these Languages & Programms
-
-<h3 align="center">🈺Languages</h3>
+<h2 align="center">
+  <samp>
+    「 <b>💻Working with these Languages & Programms</b> 」
+  </samp>
+</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -101,8 +127,15 @@
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
 </p>
 
----
-## 🎶Music APIs
+<br>
+<h2 align="center">
+  <samp>
+    「 <b>🎶Music APIs</b> 」
+  </samp>
+  <br>
+    <a align="center" href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/485a8397-32d7-405b-918f-fa2842580d4f"></a>
+</h2>
+
 #### 🎵Last played
 
 [![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
@@ -131,8 +164,6 @@
     </tr>
   </tbody>
 </table>
-
-![zerofour](https://user-images.githubusercontent.com/60815764/119038564-8ebd7e80-b9b3-11eb-95f4-42e46a63602b.gif)
 
 [windows]:https://www.microsoft.com/en-us/windows/
 [linux]:https://www.linux.org
