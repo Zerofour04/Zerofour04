@@ -15,22 +15,7 @@
     <br>
     「 Creating digital masterpieces, based in <b>Munich, Germany</b> 」
     <br>
-    「 <b>README.md v3.0 </b>| Web- / Front- /Game- Developer 」
-    <br>
-    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    <a href="https://github.com/Zerofour04"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <br>
-    <a href="https://discord.com/users/470526298012516352"><img src="https://lanyard.cnrad.dev/api/470526298012516352"></a>
-    <br>
-    <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
-    <br>
-    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
+    「 <b>README.md v3.5 </b>| Web- / Front- /Game- Developer 」
   </samp>
 </p>
 
@@ -42,21 +27,37 @@
 
 <p align="center">
   <samp>
-    「 <b> Since I publish everything open-source, I don't expect anything, but I would be happy if:</b> 」
+    <b>🌟 If you enjoy my open-source projects, consider supporting by:</b>
     <br>
-     - ⭐you give my projects a star 
+     - ⭐ Starring the repositories you like
     <br>
-     - 👤you follow me
+     - 👤 Following my profile for updates
     <br>
-     - 🌐you share my project
+     - 🌐 Sharing the projects with others
   </samp>
 </p>
+
+<p align="center">
+  <samp><b>✨ Thanks to everyone who’s shown their support: ✨</b></samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Zerofour04?style=for-the-badge" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/Zerofour04?style=for-the-badge" alt="GitHub followers">
+</p>
+
 <p align="center">
   <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-  <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <br>
-  <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/ad565c1b-af95-4116-909a-e79b026a6697"></a>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
+    <br>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
+  </samp>
 </p>
 
 <h2 align="center">
@@ -68,19 +69,20 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/MySQL-FFBE00?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 <h3 align="center">🖼️Framworks / 📚Library</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootsrap"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VUE"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootsrap"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Nodejs"/>
 
 </p>
@@ -89,11 +91,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/VSStudio2022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio 2022"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=whit" alt="Webstorm"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OperaGX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>  
 
 <h3 align="center">🖥️Workflow</h3>
@@ -101,23 +101,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</p>
-
-<h3 align="center">📠Servers</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VERCEL"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> 
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-</p>
-
-<h3 align="center">⌨️Components</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
-  <img src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
-  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 <p align="center">
