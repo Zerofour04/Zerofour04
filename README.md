@@ -38,18 +38,18 @@
 </p>
 
 <p align="center">
+  - <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+  <br>
+    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
+</p>
+
+<p align="center">
   <samp><b>✨ Thanks to everyone who’s shown their support: ✨</b></samp>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Zerofour04?style=for-the-badge" alt="GitHub stars">
   <img src="https://img.shields.io/github/followers/Zerofour04?style=for-the-badge" alt="GitHub followers">
-</p>
-
-<p align="center">
-  <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <br>
-    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
 </p>
 
 <p align="center">
