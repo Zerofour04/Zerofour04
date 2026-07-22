@@ -1,68 +1,69 @@
-<p align="center">
-  <a href="https://github.com/Zerofour04"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60815764/292596436-61e05eaa-b53e-44fc-a03b-3279bc1e7b3a.gif"></a>
-</p>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h2 align="center">
-        <samp>&gt; HelloWorld(), I am
-                <b><a target="_blank" href="https://zerofour04.me">Ben // Zerofour // 04</a></b>
-</h2>
-<h3 align="center">
-    <samp>👋Welcome on my GitHub</samp>
+    <samp>&gt; HelloWorld(), I am <b><a target="_blank" href="https://zerofour04.me">Ben // Zerofour // 04</a></b></samp>
     <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/fec2e9df-a845-444d-91b8-7d9b8b44dd41"></a>
-</h3>
-<p align="center"> 
-  <samp>
-    <br>
-    「 Creating digital masterpieces, based in <b>Munich, Germany</b> 」
-    <br>
-    「 <b>README.md v4.0 </b>| Web- / Front- /Fullstack- Developer 」
-  </samp>
-</p>
+</h2>
+
+<!-- Terminal Section -->
+<div align="center">
+
+<h3><code>zerofour04@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="420" alt="ASCII Portrait"/></td>
+    <td valign="top"><img src="./info-card.svg" width="440" alt="Info Card"/></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>zerofour04@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap"/>
+
+</div>
+
+<br>
 
 <h2 align="center">
   <samp>
-    「 <b>💌 How to Support me</b> 」
+    「 <b>How to Support me</b> 」
   </samp>
 </h2>
 
 <p align="center">
   <samp>
-    <b>🌟 If you enjoy my open-source projects, consider supporting by:</b>
+    <b>If you enjoy my open-source projects, consider supporting by:</b>
     <br>
-     - ⭐ Starring the repositories you like
+     - Starring the repositories you like
     <br>
-     - 👤 Following my profile for updates
+     - Following my profile for updates
     <br>
-     - 🌐 Sharing the projects with others
+     - Sharing the projects with others
   </samp>
 </p>
 
 <p align="center">
-  - <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <br>
-    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
+  <a href="https://www.paypal.me/zerofour2004" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+  <br><br>
+  <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/3f0ef9f2-e020-46ab-9632-bfbe4c2016e5"></a>
 </p>
-
 
 <div align="center">
 
-|  **✨ Thanks to everyone who's shown their support: ✨**  |
+|  **Thanks to everyone who's shown their support:**  |
 |:---:|
 | <img src="https://img.shields.io/github/stars/Zerofour04?style=for-the-badge" alt="GitHub stars"> <img src="https://img.shields.io/github/followers/Zerofour04?style=for-the-badge" alt="GitHub followers"> |
 
 </div>
 
 <p align="center">
-  <samp>
-    <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
-    <br>
-    <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
-  </samp>
+  <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
+  <br>
+  <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
 </p>
 
 <h2 align="center">
   <samp>
-    「 <b>💻 Working with these languages</b> 」
+    「 <b>Working with these languages</b> 」
   </samp>
 </h2>
 
@@ -115,61 +116,47 @@
 </p>
 
 <p align="center">
-  <img alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact&theme=algolia" />
 </p>
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
 </p>
 
 <br>
+
 <h2 align="center">
   <samp>
-    「 <b>🎶Music APIs</b> 」
+    「 <b>Music APIs</b> 」
   </samp>
   <br>
-    <a align="center" href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/485a8397-32d7-405b-918f-fa2842580d4f"></a>
+  <a align="center" href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/485a8397-32d7-405b-918f-fa2842580d4f"></a>
 </h2>
 
-#### 🎵Last played
+#### Last played
 
 [![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
+| Now Playing |
+|:---:|
 | <a href="https://spotifyapi2.vercel.app/now-playing?open"><img src="https://spotifyapi2.vercel.app/now-playing" width="540" height="64"></a> |
 
 <table>
   <thead>
     <tr>
-      <th>📈 Top Tracks</th>
+      <th>Top Tracks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
-
-[windows]:https://www.microsoft.com/en-us/windows/
-[linux]:https://www.linux.org
-[discord]: https://steamcommunity.com/id/zerofour_04/
-[youtube]: https://www.youtube.com/channel/UCiG2ezBIH8PKOjrvHyipR_g
-[twitter]: https://twitter.com/Zerofour_04_
-[twitch]: https://www.twitch.tv/zerofour_04_
-[spotify]: https://www.twitch.tv/zerofour_04_
-[steam]: https://steamcommunity.com/id/zerofour_04/
-[nvidia]: https://www.nvidia.com
-[intel]: https://www.intel.com/content/www/us/en/homepage.html
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url
-[patreon]: https://www.patreon.com/zerofour
-[buymeacoffee]: https://www.buymeacoffee.com/zerofour
-[json]: https://www.npmjs.com/package/json-server
