@@ -116,10 +116,10 @@
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerofour04&layout=compact&theme=algolia" />
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zerofour04&layout=compact&theme=algolia" />
 </p>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
+  <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Zerofour04&show_icons=true&theme=algolia" />
 </p>
 
 <br>
@@ -134,29 +134,4 @@
 
 #### Last played
 
-[![Spotify](https://spotifyapi-zerofour04.vercel.app/api/spotify)](https://open.spotify.com/user/brubiyt)
-
-| Now Playing |
-|:---:|
-| <a href="https://spotifyapi2.vercel.app/now-playing?open"><img src="https://spotifyapi2.vercel.app/now-playing" width="540" height="64"></a> |
-
-<table>
-  <thead>
-    <tr>
-      <th>Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=0" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><a href="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2&open"><img src="https://spotifyapi2-597inxle8-zerofour04.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
+[![Spotify](https://spotify-now-playing-readme-nine.vercel.app/api/orchestrator)](https://open.spotify.com/user/brubiyt)
