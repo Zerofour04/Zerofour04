@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <a href="https://app.daily.dev/Zerofour04"><img align="center" src="https://api.daily.dev/devcards/14f96dd5a8b245a4a89aced625dd7d70.png?r=ihd" width="400" alt="Ben // Zerofour // 04's Dev Card"/></a>
+<a href="https://daily.dev/zerofour04"><img src="https://api.daily.dev/devcards/v2/GTubCEnz1gep4iaRHslRZ.png?type=default&r=l3m" width="356" alt="Ben // Zerofour // 04's Dev Card"/></a>
   <br>
   <a href="https://github.com/Zerofour04"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/a131f48f-2e04-49eb-ab26-2be0753ae452"></a>
 </p>
@@ -133,5 +133,6 @@
 </h2>
 
 #### Last played
-
-[![Spotify](https://spotify-now-playing-readme-nine.vercel.app/api/orchestrator)](https://open.spotify.com/user/brubiyt)
+<a href="https://open.spotify.com/user/brubiyt">
+  <img src="https://spotify-now-playing-readme-nine.vercel.app/api/orchestrator" width="600" />
+</a>
